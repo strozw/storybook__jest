@@ -28,9 +28,9 @@
   },
   "sideEffects": false,
   "dependencies": {
+    "@jest/globals": "28.1.3",
     "@storybook/expect": "storybook-jest",
     "@testing-library/jest-dom": "^6.1.2",
-    "@types/jest": "28.1.3",
     "jest-mock": "^27.3.0"
   },
   "devDependencies": {
